@@ -1,0 +1,20 @@
+﻿body {
+    background-image: url("graphics/background/skill-desc_0003_bg.png");
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #87906f;
+    width: 10%;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    padding: 3px;
+}
